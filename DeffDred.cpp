@@ -750,7 +750,7 @@ while (std::cin.rdbuf()->in_avail() > 0) {
             }
         }
 
-        // Load, sort, and display Top 10
+        // Load, sort, and display Top 10 x
         std::vector<std::pair<int, std::string>> allScores;
         {
             std::ifstream in(highscoresPath);
