@@ -1,0 +1,3 @@
+﻿  DeffDred.cpp
+C:\Users\alexg\source\repos\DeffDred\DeffDred.cpp(653,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DeffDred.vcxproj -> C:\Users\alexg\source\repos\DeffDred\x64\Debug\DeffDred.exe

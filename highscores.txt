@@ -1,3 +1,4 @@
 300	alex
 150	lapin
 50	boo
+7400	dra
