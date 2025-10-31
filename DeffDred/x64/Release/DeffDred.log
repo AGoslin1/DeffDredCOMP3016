@@ -1,0 +1,7 @@
+﻿  DeffDred.cpp
+C:\Users\alexg\source\repos\DeffDred\DeffDred.cpp(653,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 991 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DeffDred.vcxproj -> C:\Users\alexg\source\repos\DeffDred\x64\Release\DeffDred.exe
