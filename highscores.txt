@@ -2,3 +2,4 @@
 150	lapin
 50	boo
 7400	dra
+7600	lapinoufr
